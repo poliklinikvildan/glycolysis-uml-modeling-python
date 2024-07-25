@@ -96,5 +96,5 @@ Detailed UML diagrams representing the glycolysis pathway are included in this r
 To view the UML diagrams and other files in this repository, clone or download the repository:
 
 ```bash
-git clone https://github.com/ypoliklinikvildan/glycolysis-pathway-analysis.git
+git clone https://github.com/poliklinikvildan/glycolysis-pathway-analysis.git
 
