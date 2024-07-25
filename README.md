@@ -62,6 +62,24 @@ Each use case includes specific operation contracts that define the precondition
 - **Dehydration of 2-Phosphoglycerate**: Enolase converts 2-phosphoglycerate to phosphoenolpyruvate by removing water.
 - **Substrate-Level Phosphorylation to Produce Pyruvate**: Pyruvate kinase converts phosphoenolpyruvate to pyruvate, producing ATP.
 
+## References
+
+**Biochemistry Textbooks**:
+   - Berg, J. M., Tymoczko, J. L., & Gatto, G. J. (2012). *Biochemistry* (7th ed.). W.H. Freeman and Company.
+   - Nelson, D. L., Cox, M. M. (2017). *Lehninger Principles of Biochemistry* (7th ed.). W.H. Freeman and Company.
+
+**Online Resources**:
+   - [NCBI Glycolysis Overview](https://www.ncbi.nlm.nih.gov/books/NBK2264/)
+   - [KEGG Pathway Database](https://www.genome.jp/kegg/pathway.html)
+
+**UML Modeling References**:
+   - Bell, D. (2003). An introduction to the Unified Modeling Language. IBM DeveloperWorks. [Link](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/jul2003/edge2/)
+   - Sparx Systems. UML Tutorial - Unified Modelling Language. [Link](https://www.sparxsystems.com/resources/uml2/index.html)
+
+**Tools Used**:
+   - PyDot for generating UML diagrams: [PyDot Documentation](https://github.com/pydot/pydot)
+   - Graphviz for rendering: [Graphviz Documentation](https://graphviz.gitlab.io/documentation/)
+
 ## UML Diagrams
 
 Detailed UML diagrams representing the glycolysis pathway are included in this repository. These diagrams illustrate the interactions between enzymes and the transformations of metabolites through glycolysis.
@@ -80,21 +98,5 @@ git clone https://github.com/yourusername/glycolysis-pathway-analysis.git
 - **Preconditions**: Requirements before an operation can occur.
 - **Postconditions**: Outcomes after an operation is completed.
 
-## References
 
-**Biochemistry Textbooks**:
-   - Berg, J. M., Tymoczko, J. L., & Gatto, G. J. (2012). *Biochemistry* (7th ed.). W.H. Freeman and Company.
-   - Nelson, D. L., Cox, M. M. (2017). *Lehninger Principles of Biochemistry* (7th ed.). W.H. Freeman and Company.
-
-**Online Resources**:
-   - [NCBI Glycolysis Overview](https://www.ncbi.nlm.nih.gov/books/NBK2264/)
-   - [KEGG Pathway Database](https://www.genome.jp/kegg/pathway.html)
-
-**UML Modeling References**:
-   - Bell, D. (2003). An introduction to the Unified Modeling Language. IBM DeveloperWorks. [Link](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/jul2003/edge2/)
-   - Sparx Systems. UML Tutorial - Unified Modelling Language. [Link](https://www.sparxsystems.com/resources/uml2/index.html)
-
-**Tools Used**:
-   - PyDot for generating UML diagrams: [PyDot Documentation](https://github.com/pydot/pydot)
-   - Graphviz for rendering: [Graphviz Documentation](https://graphviz.gitlab.io/documentation/)
 
