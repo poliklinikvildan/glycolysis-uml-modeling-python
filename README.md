@@ -84,19 +84,17 @@ Each use case includes specific operation contracts that define the precondition
 
 Detailed UML diagrams representing the glycolysis pathway are included in this repository. These diagrams illustrate the interactions between enzymes and the transformations of metabolites through glycolysis.
 
+## Key Points
+
+- **Actors**: Represent enzymes in glycolysis. Each enzyme is a node in the UML diagrams.
+- **Operations**: Represent the biochemical transformations catalyzed by each enzyme. These are illustrated as processes or actions in the diagrams.
+- **Preconditions**: Conditions that must be met before an operation can be performed. These are typically described in the context of the enzyme's activity.
+- **Postconditions**: Results or state changes that occur after an operation is completed. These are shown as outcomes in the diagrams.
+
 ## Installation and Usage
 
 To view the UML diagrams and other files in this repository, clone or download the repository:
 
 ```bash
-git clone https://github.com/yourusername/glycolysis-pathway-analysis.git
-
-
-### Key Points
-- **Actors**: Represent enzymes in glycolysis.
-- **Operations**: The biochemical transformations catalyzed by each enzyme.
-- **Preconditions**: Requirements before an operation can occur.
-- **Postconditions**: Outcomes after an operation is completed.
-
-
+git clone https://github.com/ypoliklinikvildan/glycolysis-pathway-analysis.git
 
