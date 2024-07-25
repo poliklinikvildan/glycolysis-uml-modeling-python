@@ -82,19 +82,19 @@ git clone https://github.com/yourusername/glycolysis-pathway-analysis.git
 
 ## References
 
-1. **Biochemistry Textbooks**:
+**Biochemistry Textbooks**:
    - Berg, J. M., Tymoczko, J. L., & Gatto, G. J. (2012). *Biochemistry* (7th ed.). W.H. Freeman and Company.
    - Nelson, D. L., Cox, M. M. (2017). *Lehninger Principles of Biochemistry* (7th ed.). W.H. Freeman and Company.
 
-2. **Online Resources**:
+**Online Resources**:
    - [NCBI Glycolysis Overview](https://www.ncbi.nlm.nih.gov/books/NBK2264/)
    - [KEGG Pathway Database](https://www.genome.jp/kegg/pathway.html)
 
-3. **UML Modeling References**:
+**UML Modeling References**:
    - Bell, D. (2003). An introduction to the Unified Modeling Language. IBM DeveloperWorks. [Link](https://www.ibm.com/developerworks/rational/library/content/RationalEdge/jul2003/edge2/)
    - Sparx Systems. UML Tutorial - Unified Modelling Language. [Link](https://www.sparxsystems.com/resources/uml2/index.html)
 
-4. **Tools Used**:
+**Tools Used**:
    - PyDot for generating UML diagrams: [PyDot Documentation](https://github.com/pydot/pydot)
    - Graphviz for rendering: [Graphviz Documentation](https://graphviz.gitlab.io/documentation/)
 
